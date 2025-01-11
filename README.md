@@ -39,9 +39,5 @@ Here are some ideas to get you started:
 ![](https://github-contributor-stats.vercel.app/api?username=dee-raj&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C108%20hrs%2058%20mins-blue)
-![Profile Views](http://img.shields.io/badge/Profile%20Views-132-blue)
-
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
