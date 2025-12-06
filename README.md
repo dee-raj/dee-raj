@@ -12,7 +12,7 @@
 
 - 💬 Ask me about Python, React Native, and NextJS.
 
-- 📫 How to reach me: www.moonKnight73@gmail.com
+- 📫 How to reach me: <a href="mailto:www.moonKnight73@gmail.com">www.moonKnight73@gmail.com</a>
 
 - ⚡ Fun fact: I love playing chess and traveling.
 
