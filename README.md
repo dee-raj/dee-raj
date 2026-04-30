@@ -8,7 +8,7 @@
   
 - 👯 I’m looking to collaborate on open-source projects.
   
-- 💬 Ask me about Node.JS, React Native, and NextJS.
+- 💬 Ask me about Node.JS, React Native, and MongoDB.
   
 - 📫 How to reach me: **www.moonKnight73@gmail.com**
   
